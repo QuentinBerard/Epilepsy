@@ -90,7 +90,7 @@ function draw() {
         fill(vert);
         strokeWeight(2);
         stroke(rouge);
-        quad(mouseX+taille+5,mouseY-50,mouseX-95,mouseY-80, mouseX-60, mouseY+8+taille, mouseX+100,             mouseY+90);
+        quad(mouseX+taille+5,mouseY-50,mouseX-95,mouseY-80, mouseX-60, mouseY+8+taille, mouseX+100, mouseY+90);
       }
        else {
         background(orange);
